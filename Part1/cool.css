@@ -1,6 +1,6 @@
 body { 
 	margin:5%;
-	text-align:justify;
+	text-align:center;
 	background-color: #ffffAA;
 }
 
@@ -10,9 +10,11 @@ P {
 	margin-top: .25em; 
 	margin-bottom: .25em; 
 }
+
 H1,H2,H4,H5,H6 { 
 	text-align: center; margin-left: 15%; margin-right: 15%; 
 }
+
 H3 {
 	text-align: center; margin-left: 15%; margin-right: 15%; 
 	margin-top:15%;
