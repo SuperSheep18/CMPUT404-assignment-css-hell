@@ -1,43 +1,56 @@
-body { 
+body {
 	text-align:center;
 	background-color: #F1E7CD;
 	background-image: url("http://www.zingerbug.com/Backgrounds/background_images/parchment_paper_wallpaper_texture_seamless.jpg");
 }
 
-P { 
+img {
+	padding:0.3em;
+	border:0.3em solid #704214;
+	background-color:#F1E7CD;
+}
+
+figcaption {
+	font-family: "Palatino Linotype", Palatino, serif;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+P {
 	font-family: "Palatino Linotype", Palatino, serif;
 	font-style: italic;
 	font-size: 150%;
-	text-indent: 1em; 
+	text-indent: 1em;
 	margin-left: 15%;
 	margin-right: 15%;
-	margin-top: .25em; 
-	margin-bottom: .75em; 
+	margin-top: .25em;
+	margin-bottom: .75em;
 	text-align: justify;
 }
-H1,H2,H4,H5,H6 { 
-	text-align: center; 
-	margin-left: 15%; 
-	margin-right: 15%; 
+H1,H2,H4,H5,H6 {
+	text-align: center;
+	margin-left: 15%;
+	margin-right: 15%;
 	text-decoration: underline;
 	color: #704214;
 }
 H3 {
-	text-align: center; margin-left: 15%; margin-right: 15%; 
+	text-align: center; margin-left: 15%; margin-right: 15%;
 	margin-top:5%;
 	text-decoration: underline;
 	color: #704214;
 }
-hr  { 
-	width: 25%; 
+hr  {
+	width: 25%;
 	height: 0.5em;
 	text-align: center;
 	background-color: #704214
 }
 blockquote {
-	font-family: "Times New Roman", Times, serif; 
-	background-color: #F1E7CD; 
-	margin-left: 10%; 
+	font-family: "Times New Roman", Times, serif;
+	background-color: #F1E7CD;
+	margin-left: 10%;
 	margin-right: 10%;
 	background-image: url("http://orig06.deviantart.net/14f9/f/2007/177/a/8/seamless_parchment_texture_by_fantasystock.jpg");
 	padding-top: 2.5em;
@@ -46,10 +59,10 @@ blockquote {
 .c {
 	text-align:center;;
 }
-.toc       { 
+.toc       {
 
 	font-weight: bold;
-	font-family: "Palatino Linotype", Palatino, serif; 
+	font-family: "Palatino Linotype", Palatino, serif;
 	text-align: center;
 	color: #704214;
 	}
@@ -62,9 +75,9 @@ blockquote {
 	color: #704214;
 }
 
-pre     { 
-	font-family: "Times New Roman", Times, serif; 
-	font-style: italic; 
-	font-size: 95%; 
+pre     {
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-size: 95%;
 	text-align: center;
 }
