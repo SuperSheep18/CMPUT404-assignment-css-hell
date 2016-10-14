@@ -29,8 +29,8 @@ CHANGES WE MADE TO THE HTML FILE
 
 OTHER CITATIONS
 ===============
-Good CSS - Bootstrap Sandstone Theme by Thomas Park    <https://bootswatch.com/sandstone/>
-Bad  CSS - Bootstrap Geo Theme by Divshot              <http://code.divshot.com/geo-bootstrap/>
-Navigation Bar - Based on W3 School Bootstrap Tutorial <http://www.w3schools.com/bootstrap/bootstrap_navbar.asp>
+- Good CSS - Bootstrap Sandstone Theme by Thomas Park    <https://bootswatch.com/sandstone/>
+- Bad  CSS - Bootstrap Geo Theme by Divshot              <http://code.divshot.com/geo-bootstrap/>
+- Navigation Bar - Based on W3 School Bootstrap Tutorial <http://www.w3schools.com/bootstrap/bootstrap_navbar.asp>
 
 We also borrowed some CSS from the Sandstone Theme and used it in the Geo Theme as well as added our own minor additions.
