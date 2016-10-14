@@ -19,3 +19,7 @@
    margin: auto;
  	width:50%;
  }
+
+ .badonly {
+ 	visibility: hidden
+ }
