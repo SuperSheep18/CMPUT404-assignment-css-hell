@@ -27,6 +27,11 @@ CHANGES WE MADE TO THE HTML FILE
 - In the Second Treatise of Government we changed the toc3 tag to toc2 to reflect that we only have two types of Table of Contents in our 3 html files.
 - Notably; like the original CSS we chose to handle H3 separately from H1-H6 due to it being handled uniquely in the HTML files.
 
+COLLABORATORS
+===============
+Aedan Burnett
+Rishi Barnwal
+
 OTHER CITATIONS
 ===============
 - Good CSS - Bootstrap Sandstone Theme by Thomas Park    <https://bootswatch.com/sandstone/>
